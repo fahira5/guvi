@@ -1,6 +1,6 @@
-a=int(input("Enter the number"))
-b=int(input("Enter the number"))
-c=int(input("Enter the number"))
+a=int(input())
+b=int(input())
+c=int(input())
 if(a>b and a>c):
   print(a)
 elif(b>a and b>c):
